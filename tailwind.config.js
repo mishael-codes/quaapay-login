@@ -5,7 +5,17 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    fontFamily:{
+      'sans': ['Poppins', 'sans-serif'],
+    },
+    extend: {
+      backgroundColor: {
+        'quaapay-indigo': 'hsla(245, 75%, 55%, 1)',
+      },
+      colors: {
+        'quaapay-indigo': 'hsla(245, 75%, 55%, 1)',
+      },
+    },
   },
   plugins: [],
 }
