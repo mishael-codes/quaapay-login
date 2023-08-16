@@ -1,9 +1,9 @@
 import "./App.css";
-import heroImage from "./assets/hero.svg";
+import heroImage from "./assets/hero.png";
 import appleLogo from "./assets/apple-icon.png";
-import googleLogo from "./assets/google-logo.svg";
-import googleStore from "./assets/google-play.svg";
-import slideInfo from "./assets/slide-info.svg";
+import googleLogo from "./assets/google-logo.png";
+import googleStore from "./assets/google-play.png";
+import slideInfo from "./assets/slide-info.png";
 
 function App() {
   return (
