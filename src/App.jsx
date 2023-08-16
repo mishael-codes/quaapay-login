@@ -1,6 +1,6 @@
 import "./App.css";
 import heroImage from "./assets/hero.svg";
-import appleLogo from "./assets/apple-store.svg";
+import appleLogo from "./assets/apple-icon.png";
 import googleLogo from "./assets/google-logo.svg";
 import googleStore from "./assets/google-play.svg";
 import slideInfo from "./assets/slide-info.svg";
